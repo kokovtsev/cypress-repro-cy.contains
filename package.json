@@ -1,0 +1,10 @@
+{
+  "name": "cypress-repro-cy.contains",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kokovtsev/cypress-repro-cy.contains.git",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^4.5.0"
+  }
+}
